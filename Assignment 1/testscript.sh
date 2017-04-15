@@ -1,0 +1,47 @@
+#!/bin/bash  
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt &
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt &
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt &
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt &
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt &
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt &
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt &
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt &
+./client 12321 127.0.0.1 1 1 >> client_output1.txt &
+./client 12321 127.0.0.1 2 1 >> client_output2.txt &
+./client 12321 127.0.0.1 3 1 >> client_output3.txt &
+./client 12321 127.0.0.1 4 1 >> client_output4.txt &
+./client 12321 127.0.0.1 5 1 >> client_output5.txt
+#

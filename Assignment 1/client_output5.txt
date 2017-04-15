@@ -1,0 +1,42 @@
+*********************************************
+Original Time : 5
+Sending Process Time to Time Daemon
+Receiving Clock Adjustment from Time Daemon
+
+Adjust original clock by the following amount: -1
+New synchronized time : 4
+*********************************************
+Original Time : 5
+Sending Process Time to Time Daemon
+*********************************************
+Original Time : 5
+Sending Process Time to Time Daemon
+*********************************************
+Original Time : 5
+Sending Process Time to Time Daemon
+Receiving Clock Adjustment from Time Daemon
+
+Adjust original clock by the following amount: -2
+New synchronized time : 3
+Receiving Clock Adjustment from Time Daemon
+104
+
+Adjust original clock by the following amount: -5
+New synchronized time : 0
+*********************************************
+Original Time : 5
+*********************************************
+Original Time : 5
+*********************************************
+Original Time : 5
+Receiving Clock Adjustment from Time Daemon
+104
+
+Adjust original clock by the following amount: -5
+New synchronized time : 0
+*********************************************
+Original Time : 5
+*********************************************
+Original Time : 5
+*********************************************
+Original Time : 5
